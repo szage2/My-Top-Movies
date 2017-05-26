@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">My Top Movies</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <!-- Sorting criteria in Main Activity for Options Menu -->
+
+    <string name="popularity">Sort by popularity</string>
+
+    <string name="rating">Sort by rating</string>
+
+    <string name="favorite">Show favorites</string>
+
+    <!-- Headers for Detail Activity -->
+
+    <string name="title_header">Original title</string>
+
+    <string name="release_date_header">Release date</string>
+
+    <string name="rating_header">Rating</string>
+
+    <string name="overview_header">Overview</string>
+
+    <!-- Label for Detail Activity -->
+
+    <string name="label_detail_activity">Details</string>
+
+    <!-- Text for favorite button and trailer -->
+
+    <string name="mark_favorite">Mark as favorite</string>
+
+    <string name="trailer_text">Watch trailer</string>
+
+    <!-- Text for error messages -->
+
+    <string name="missing_api_key">Please obtain your API KEY first from themoviedb.org</string>
+
+    <string name="loader_error">Loader Not Implemented: </string>
+
+    <string name="delete_error">Error with deletion</string>
+
+    <string name="retrofit_fail_error">Error caused</string>
+
+    <string name="argument_error">Invalid view type, value of </string>
+
+    <string name="unsupported_operation">Unknown uri: </string>
+
+    <string name="runtime_error">Not implementing update in MyTopMovies</string>
+
+    <string name="unknown_uri">Cannot query unknown URI </string>
+
+    <string name="not_supported">Insertion is not supported for </string>
+
+    <string name="id_required">Movie requires an id</string>
+
+    <!-- Text for informative messages -->
+
+    <string name="movie_added">Movie added to favorites</string>
+
+    <string name="movie_deleted">Movie deleted from favorites</string>
+
+    <!-- Text for details -->
+
+    <string name="title_key">title</string>
+
+    <string name="poster_path_key">posterPath</string>
+
+    <string name="release_key">release</string>
+
+    <string name="rating_key">rating</string>
+
+    <string name="overview_key">overview</string>
+
+    <string name="id_key">id</string>
+
+    <string name="position_key">position</string>
+
+</resources>
